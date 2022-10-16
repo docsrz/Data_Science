@@ -1,2 +1,2 @@
 # Data_Science
-It has various Projects code using Python
+Data Science: Python code on Jupyter Notebook
